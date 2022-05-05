@@ -1,0 +1,65 @@
+body {
+    background: #fffdfa;
+}
+
+.header {
+    text-align: center;
+    color: rgb(99, 99, 99);
+    
+    text-transform: lowercase;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#head1{
+    color:rgb(153, 169, 216);
+    font-size: 100px;
+    margin-top: 150px;
+    text-transform: lowercase;
+}
+
+
+#head2{
+    text-transform: uppercase;
+    top: 100px;
+    
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 2fr);
+    stroke-width: 10px;
+    background: rgb(153, 169, 216);
+}
+.table {
+    height: 100px;
+    border: 50px solid #fffdfa;
+    font-size: 20px;
+}
+
+#a1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Fira Sans', sans-serif;
+
+}
+#a2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Fira Sans', sans-serif;
+}
+#a3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Fira Sans', sans-serif;
+}
+#a4 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#bottomsquare {
+    height: 1000;
+    height: 500;
+    background: rgb(153, 169, 216);
+}

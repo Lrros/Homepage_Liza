@@ -1,0 +1,116 @@
+* {
+    margin: 70px;
+}
+body {
+    background: rgb(10, 27, 61);
+}   
+h1 {
+color: rgb(255, 255, 255);
+font-size: 60px;
+letter-spacing: 7px;
+text-transform: uppercase;
+text-align: center;
+}
+#headline {
+   color: rgb(153, 169, 216); 
+   text-transform: lowercase;
+   line-height: 2px;
+   font-style:normal;
+   font-size:40px;
+   font-family: 'Fira Sans', sans-serif;
+
+}
+#box-1 {
+    width: 600px;
+    height: 135px;
+    background:rgb(153, 169, 216);
+    font-family: 'Ropa Sans', sans-serif;
+}
+.text {
+    font-family: 'Ropa Sans', sans-serif;
+}
+h2 {
+    text-align: center;
+    color: beige;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+p {
+    color: rgb(255, 255, 255);
+}
+#image1 {
+    width: 700px;
+    height: 500px; 
+    margin-left: 85px;
+}
+#image2 {
+    width: 700px;
+    height: 500px;
+    margin-left: 85px;
+
+}
+#image3 {
+    width: 700px;
+    height: 500px;
+    margin-left: 85px;
+}
+#line1 {
+    width: 40px;
+    height: 300px;
+    background: rgb(153, 169, 216);
+    margin-left: 630px;
+}
+.subtitle {
+    color: rgb(153, 169, 216);
+    letter-spacing: 7px;
+    font-size: 40px;
+    text-transform: lowercase;
+    font-family: 'Fira Sans', sans-serif;
+}
+.subtitle2 {
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    margin-left: 370px;
+    letter-spacing: 4px;
+    font-family: 'Fira Sans', sans-serif;
+}
+#image4 {
+    width: 500px;
+    height: 700px;
+    margin-left: 280px;
+}
+#line2 {
+    width: 40px;
+    height: 80px;
+    background: rgb(153, 169, 216);
+    margin-left: 630px;
+}
+#line3 {
+    width: 40px;
+    height: 150px;
+    background: rgb(153, 169, 216);
+    margin-left: 630px;
+}
+#line4 {
+    width: 40px;
+    height: 150px;
+    background: rgb(153, 169, 216);
+    margin-left: 630px;
+}
+#image5 {
+    width: 500px;
+    height: 700px;
+    margin-left: 280px;
+}
+@font-face {
+    font-family: 'Font-1';
+    src: url;
+}
+
+#goback {
+    text-transform: uppercase;
+    margin-left: 350px;
+    line-height: 5px;
+    font-size:20px;
+    font-family: 'Fira Sans', sans-serif;
+ }
